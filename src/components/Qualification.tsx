@@ -84,7 +84,7 @@ const Qualification = () => {
         {/* Timeline */}
         <div className="relative max-w-3xl mx-auto">
           {/* Central Line */}
-          <div className="absolute left-[19px] md:left-1/2 top-0 bottom-0 w-px bg-secondary md:-translate-x-1/2"></div>
+          <div className="absolute left-[19px] md:left-1/2 top-0 bottom-0 w-px bg-muted md:-translate-x-1/2"></div>
 
           <div className="space-y-8">
             <AnimatePresence mode="wait">
