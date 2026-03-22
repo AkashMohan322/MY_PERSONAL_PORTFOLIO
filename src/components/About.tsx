@@ -89,7 +89,7 @@ const About = () => {
               contributing to innovative software solutions.
             </p>
 
-            <button className="btn btn-primary flex items-center gap-2 group">
+            <button onClick={() => window.open('/src/assets/AKASH_MOHAN_RESUME.pdf', '_blank')} className="btn btn-primary flex items-center gap-2 group">
               Download CV
               <FiDownload className="group-hover:translate-y-1 transition-transform" />
             </button>

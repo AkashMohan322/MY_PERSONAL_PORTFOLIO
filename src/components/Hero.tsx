@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { FiGithub, FiLinkedin } from 'react-icons/fi';
-import profileImage from '../assets/images/profile.png';
+import profileImage from '../assets/images/profile_pic.jpeg';
 
 const Hero = () => {
   
