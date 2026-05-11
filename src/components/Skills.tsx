@@ -6,6 +6,7 @@ import {
   SiExpress, SiHtml5, SiCss3, SiRedux, SiPostman, SiTypescript, SiBootstrap, SiMui,
   SiGithub,
   SiNetlify,
+  SiFastapi,
 
 } from 'react-icons/si';
 import { VscVscode } from 'react-icons/vsc';
@@ -31,6 +32,7 @@ const Skills = () => {
       { name: 'Node.js', icon: <SiNodedotjs className="text-[#339933]" /> },
       { name: 'Express.js', icon: <SiExpress className="text-[#]" /> },
       { name: 'Python', icon: <SiPython className="text-[#3776AB]" /> },
+      { name: 'FastAPI', icon: <SiFastapi className="text-[#009688]" /> },
       { name: 'Django', icon: <SiDjango className="text-[#092E20]" /> },
     ],
     Database: [
