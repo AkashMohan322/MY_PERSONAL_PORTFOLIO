@@ -12,7 +12,7 @@ const Contact = () => {
           viewport={{ once: true }}
           className="text-center mb-16"
         >
-          <h2 className="text-3xl md:text-4xl font-bold mb-4">Get In Touch</h2>
+          <h2 className="text-4xl md:text-5xl font-bold mb-4">Get In <span className="text-accent">Touch</span></h2>
           <p className="text-muted max-w-2xl mx-auto">
             If you're hiring or think I’d be a great fit for your team, I’d love to hear from you!
           </p>
